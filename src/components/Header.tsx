@@ -16,7 +16,7 @@ const Header = () => {
         <nav className="h-full flex justify-between container items-center">
           <div>
             <Link to="/" className="text-ct-dark-600 text-2xl font-semibold">
-              CodevoWeb
+              Luke_PRO
             </Link>
           </div>
           <ul className="flex items-center gap-4">
